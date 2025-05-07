@@ -1,6 +1,5 @@
 # CSnake
-Snake in C :D
-
+It uses windows.h to handle button inputs. For right now, its windows only.
 
 Use the arrow keys to move
 
